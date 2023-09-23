@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+	line-height: 1;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    background-color: #10502f;
+    padding: 75px;
+    margin-bottom: 60px;
+    padding-bottom: 15px;
+}
+
+a { 
+	color: white; 
+}
+
+a { 
+	text-decoration: none; 
+}
+a:hover { 
+	text-decoration: underline; 
+}
+
+table{
+    width: 50% !important; /*Importante manter o !important rs */
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+
+
+
+
+
